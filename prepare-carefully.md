@@ -20,3 +20,9 @@ need to embark with a few picks and and axe. can skip an anvil if you feel good 
 
 dig down a layer, plant subterranean farms. set up and link stockpiles and still and kitchen to get started with production. etc
 
+carpenter needs to keep up woth barrels for alcohol production, then barrels can be used to store food if you want. he also should make beds and a chair and then a couple tables and chairs. give the dwarves beds so they dont sleep on the ground and table chairs so they dont have to eat off the ground. 
+
+## start with anvil
+
+## start with military
+
