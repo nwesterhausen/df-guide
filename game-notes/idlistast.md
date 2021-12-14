@@ -58,3 +58,8 @@ fighters is a good idea.
 Fort: Idlitast "Rocktorches"
 Group: The Sabres of Brilliance
 Symbol: The Tomb of Flickering is an image of a mountain. The mountain is burning.
+
+# End
+
+Done in by syndrome cloud turning the caravan guards to [husks](https://dwarffortresswiki.org/index.php/DF2014:Undead#Thralls.2C_Husks.2C_and_Zombies)
+
