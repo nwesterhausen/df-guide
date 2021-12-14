@@ -8,7 +8,7 @@ Decided to embark with 10 dwarves, where 4 were speardwarves. Then had 2 herbali
 
 ## Arrival and First Months
 
-I got started by assigning nobles, the speardwarf squad, designating a few trees to be felled and designating a hole into the hill we started on. The last thing I want is for my anvil to be stolen by some stupid bird. I used the wood from the first couple trees to build a shed encompassing the wagon and the down stairs to the underground shelter. I then made a dormatory and hospital as well as a small dining room and single-chair office for the bookkeeper/manager. I also set up an armor stand to have my military squad train.
+I got started by assigning nobles, the Speardwarf squad, designating a few trees to be felled and designating a hole into the hill we started on. The last thing I want is for my anvil to be stolen by some stupid bird. I used the wood from the first couple trees to build a shed encompassing the wagon and the down stairs to the underground shelter. I then made a dormitory and hospital as well as a small dining room and single-chair office for the bookkeeper/manager. I also set up an armor stand to have my military squad train.
 
 I dug another few layers until stone and then dug out a large room to use as temporary workshop space and then dug out a series of 1x3 bedrooms (1x4 if you include the door). Also by now I had built a still to produce drinks and was gathering vegetation and fruit from outside the fortress. Prepared meals can come later. 
 
