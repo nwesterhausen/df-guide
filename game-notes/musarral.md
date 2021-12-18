@@ -89,3 +89,25 @@ Escorts:
 ## game plan
 
 hunker down, get started soon on fort proper -- have some new ideas on fort layout to try.
+
+## beginning notes
+
+The comedian noble was chosen for expedition leader. Also the writer and muscian got
+peasant professions so I have customized them respectively. I disabled the labors which
+were beneath the nobles.
+
+We embarked to The Torrid Forest on the Shattered Continent. A half day's travel south is a
+friendly elven site. A half day north is another one. An elven retreat is 2 days travel west 
+of us. 2 days travel south of us is a lot of different sites, populated by dwarves, humans 
+and gobins -- they all have a green border so they could all be part of the human/dwarven civ.
+There also are some sites with no population but with artifacts. And there were very few sites
+I saw that had more than 50 population. I think this time we're ripe to make a museum and grand
+library.
+
+> 7th Slate, 1050: The forest retreat of Leapedtongue (1/2 days travel to the southwest) looks to
+> your thriving economy for its future prosperity. 
+
+Strange considering it's been a month and all we've done is put a roof over the wagon and butchery
+area and started digging a storage pit.
+
+![wagon and workshops](img/wagon-and-workshops.png)
