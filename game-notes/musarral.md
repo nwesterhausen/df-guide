@@ -111,3 +111,10 @@ Strange considering it's been a month and all we've done is put a roof over the 
 area and started digging a storage pit.
 
 ![wagon and workshops](img/wagon-and-workshops.png)
+
+> 9th Felsite, 1050: The forest retreat of Drunkencrushed (1/2 days travel to the south) looks to
+> your thriving economy for its future prosperity. 
+
+All we've accomplished since Slate is building a carpenter and craftdwarf workshop, and finished
+digging out a small room in the stone.
+
