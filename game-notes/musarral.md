@@ -118,3 +118,38 @@ area and started digging a storage pit.
 All we've accomplished since Slate is building a carpenter and craftdwarf workshop, and finished
 digging out a small room in the stone.
 
+> 5th Hematite, 1050: The forest retreat of Spinsings (a short walk to the southwest) looks to
+> your thriving economy for its future prosperity. 
+
+> 10th Hematite, 1050: The forest retreat of Gulfbries (a short walk to the southwest) looks to
+> your thriving economy for its future prosperity. 
+
+All of these economically-linked sites are Elven.
+
+> 4th Malachite, 1050: Migrants have arrived. (4 dwarf citizens)
+
+Finally some more workers! 2 blacksmiths, a doctor and a stonecrafter.
+
+> 5th Malachite, 1050: The forest retreat of Poetfells (a short walk to the southwest) looks to
+> your thriving economy for its future prosperity. 
+
+> 13th Malachite, 1050: The forest retreat of Sandalmeadow (a short walk to the southwest) looks to
+> your thriving economy for its future prosperity. 
+
+> 19th Galena, 1050: The forest retreat of Glimmmeredhoods (1/2 days travel to the northwest) looks to
+> your thriving economy for its future prosperity. 
+
+> 7th Limestone, 1050: The forest retreat of Glosspaths (a short walk to the west) looks to
+> your thriving economy for its future prosperity. 
+
+A caravan arrived on the 15th of Limestone, 1050. No outpost liason arrived with it. We traded them
+some wooden cups, stone mugs and a couple earthenware statues for a gold bar, a few birds, and some
+fish and meat.
+
+> 24th Sandstone, 1050: Migrants have arrived. (11 dwarf citizens)
+
+More migrants. Basically they double our population! Noteworthy members are a high master woodcrafter and
+a high master gem cutter.
+
+In spring 1051, elven traders arrived and so did a migrant wave of 11 dwarf citizens.
+
