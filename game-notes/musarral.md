@@ -1,9 +1,22 @@
-# musarral
+# musarral "Knownsilvers"
 
 Inspired by the embark profile "Escort and 6 nobles with no skills," I'm going to do that but with 
 1 guard, 1 worker and 5 nobles with no [useful] skills. I'm also going to forbid my nobles from 
 doing "peasant labors" (cleaning, construction removal, furniture hauling, push/haul vehicles, refuse
 hauling, stone hauling, water hauling and wood hauling).
+
+Nobles:
+
+- Politician
+- Clerk
+- Stringed instrumentalist
+- Writer / Poet
+- Comedian
+
+Escorts:
+
+- Axedwarf guard with some experience
+- Jack-of-all-trades labor dwarf
 
 ## saved profile
 
