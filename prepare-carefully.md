@@ -1,33 +1,45 @@
-# Prepare Carefully
+# Prepare for the journey carefully
+A few different flavors of embarking:
 
-When embarking, when selecting your starting equipment you can choose a preset or to prepare carefully. If you choose to prepare carefully, you are able to assign some skills to your starting dwarves.
+- [Military dwarf start](#military-squad)
+- [Custom "Useless Nobles + Escort" scenario](#nobles-with-escort)
+- ["Peacock Easy Start"](#peacock-easy-start)
 
-## start with farmers
+A custom [embark_profiles.txt](embark_profiles.txt) is available with these profiles.
 
-starting with a good farmer gives a boost to your starting food production. starting with 2 is even more productive, because your farmers can super grow food. combine this with a cook and brewer and you can have a very powerful trading position for your first couple caravans (and good food production for your fort). 
+## Military Squad
+Embark with a squad of military dwarves and their commander. 
 
-the idea is
+### Summary
 
-- proficient farmer, decent appraiser
-- proficient farmer
-- proficient cook
-- proficient brewer
-- good organizer, good record keeper, good conversationalist
-- proficient carpenter
-- proficient architect, proficient mechanic
+- 2 hammerdwarves
+- 2 speardwarves 
+- 2 axedwarves
+- 1 commander
+- steak, spinach, fish and mushrooms
+- bunch of beer and wine
+- anvil and single magma-safe stone
+- 8 coke, 5 iron and 3 silver bars.
+- hospital requirements as possible
+- logs enough for beds and an armor stand
 
-need to embark with a few picks and and axe. can skip an anvil if you feel good about trading for one at the first caravan. bring lots of seeds to take advantage of the two good farmers. set up brewing and make sure yo forbid seeds and plants you are farming from cooking. appraiser is your broker and the other noble is manager bookkeeper and expedition leader. he only needs 1 chair then. 
+### How to Use
 
-dig down a layer, plant subterranean farms. set up and link stockpiles and still and kitchen to get started with production. etc
+The hammerdwarves, axedwarves, and speardwarves all also have points in student, concentration and discipline; meanwhile, the commander has points in dodger, shield user, tactician, leader and teacher. The idea is you set up a squad for the first couple seasons with all the dwarves and let them learn some dodging/shield usage. Then split them up into weapon-squads to prevent a ton of cross training.
 
-carpenter needs to keep up with barrels for alcohol production, then barrels can be used to store food if you want. he also should make beds and a chair and then a couple tables and chairs. give the dwarves beds so they don't sleep on the ground and table chairs so they don't have to eat off the ground. 
+Have one of your starting 7 forge your tools after building a metalsmith forge with the stone and anvil. Included in the profile is 8 fuel and enough iron for 1 pick, 2 spears and 2 axes and enough silver for 3 war hammers. This was cheaper than bringing the weapons and has the benefit of a random chance for a quality modifier.
 
-## start with anvil
+The included wood can save time chopping down trees, or allow you to embark somewhere without trees. Make a carpenter shop and produce 7 beds and an armor stand. Set up bedrooms for each dwarf and create a barracks where they all are able to train. You should remember that you get 3 wood from deconstructing the wagon and consider using it for a table and two chairs: one chair becomes an office for your bookkeeper, the chair and table become a bare-bones dining hall.
 
-## start with military
+This start probably benefits the most from migrant waves, as you will get a really solid military foundation. 
 
-This start has your starting dwarves be a solid military base, all with some teaching, leadership, dodging experience plus profit with a weapon. These become military squad leaders later in your fort and with the extra skills will be able to train the squads better.
+You should consider that no one will have armor. And they will only have shields if you make them for them. It's best to get them armored as soon as possible, because it will make a huge improvement for their survival.
 
-Start them each with skill in leadership, dodging, teaching, and discipline. Then a weapon of your choice. For the first year you will have to use them for general fort labor until you start getting migrants. It may be beneficial to give one appraisal for easier trading. 
+## Nobles with Escort
+Embark with a handful of nobles and a single escort.
 
-If you put them all in a squad until you have more dwarves, don't assign them a weapon in their uniform. They will be wrestlers but be able to still train dodging and become better students and teachers. 
+## Peacock Easy Start
+
+![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](peafowl.png)
+
+Embark with a "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl.
