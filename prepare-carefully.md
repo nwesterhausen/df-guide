@@ -93,4 +93,4 @@ I tried to include a couple fruits from the garden vegetable category, to provid
 
 Brought some milk (it's only 1 dwarfbuck per unit!) to make some cheese right after arriving as well. That's easy food. With the sows, you can throw them in a room with a farmer's workshop and queue up *x* milking jobs per month, where *x* is the number of sows.
 
-Make sure to make some nest boxes and create some [peafowl coops](poutry-housing.md).
+Make sure to make some nest boxes and create some [peafowl coops](poultry-housing.md).
