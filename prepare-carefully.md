@@ -62,4 +62,35 @@ Embark with a handful of nobles and a single escort.
 
 ![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](img/peafowl.png)
 
-Embark with a "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl.
+Embark with a more "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl (and a couple sow for milking; I guess this is more of a food/drink focus embark). This embark will enable you to get your food and drink industry off to a strong start.
+
+### Summary
+
+- blue peafowl
+- 2 picks, 1 axe
+- anvil
+- thread, cloth, rope
+- sand
+- gypsum plaster
+- lye
+- buckets
+- seeds, fruits, steaks, milk and fish
+- beer and wine
+- 2 farmers
+- 2 miners
+- 1 carpenter
+- 1 craftdwarf
+- 1 mason/broker
+- pigs (for milking/cheesemaking)
+
+### Usage Tips
+
+All the animals brought along do not need to graze (except for your pack animals). It would be beneficial to butcher your pack animals and use the tallow to make soap to have from the beginning. You can easily fully stock a hospital and make a well with this start.
+
+To improve your farmers, you should change the general orders to only permit farmers to harvest so they really rake in the growing xp (which affects the food gained from farm plots).
+
+I tried to include a couple fruits from the garden vegetable category, to provide some wine variety. They may not be available if you chose this embark, so consider adding some which are available to you.
+
+Brought some milk (it's only 1 dwarfbuck per unit!) to make some cheese right after arriving as well. That's easy food. With the sows, you can throw them in a room with a farmer's workshop and queue up *x* milking jobs per month, where *x* is the number of sows.
+
+Make sure to make some nest boxes and create some [peafowl coops](poutry-housing.md).
