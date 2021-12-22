@@ -16,5 +16,5 @@ The access is above (or you could put it below) the egg-egg. The doors should be
 
 When it's time to butcher the grown blue peafowl, simply go to the status screen and view the animals. Your oldest (earliest joined) animals are at the top of the list. Blue peafowl will [live for at least a decade](https://dwarffortresswiki.org/index.php/DF2014:Blue_peafowl), so you can make use of the starting batch for a lot of offspring. I tend to start at the top and scroll down the list until I get through as many cocks and hens that I want, then start giving the butchering order on all the other grown birds.
 
-They don't provide a ton of leather per bird but make up for it with 1 year maturation and large clutches.
+They don't provide a ton of leather per bird but make up for it with 1 year maturation and decent amount of eggs per clutch.
 
