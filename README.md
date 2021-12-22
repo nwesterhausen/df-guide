@@ -12,3 +12,5 @@ This repository exists to document my fort process and make it easily accessible
 	1. [Fort Infancy](fort-setup.md) - My personal "getting started guide" and how I prioritize my start.
 	2. [Industry Guides](industry.md) - Short list explanation of industry requirements with thoughts and plans on how to run each industry.
 	3. [Military Guide](military.md) - My personal military setup guide.
+4. Notes
+	1. [Hospital Design](hospital-design.md)

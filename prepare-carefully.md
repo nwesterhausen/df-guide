@@ -23,7 +23,7 @@ Embark with a squad of military dwarves and their commander.
 - hospital requirements as possible
 - logs enough for beds and an armor stand
 
-### How to Use
+### Usage Tips
 
 The hammerdwarves, axedwarves, and speardwarves all also have points in student, concentration and discipline; meanwhile, the commander has points in dodger, shield user, tactician, leader and teacher. The idea is you set up a squad for the first couple seasons with all the dwarves and let them learn some dodging/shield usage. Then split them up into weapon-squads to prevent a ton of cross training.
 
@@ -38,8 +38,28 @@ You should consider that no one will have armor. And they will only have shields
 ## Nobles with Escort
 Embark with a handful of nobles and a single escort.
 
+### Summary
+
+- 1 musician
+- 1 poet
+- 1 scholar
+- 1 clerk
+- 1 politician
+- 1 trader
+- 1 jack-of-all trades
+- seeds, mushrooms, and steak
+- goat cheese
+- wine and beer
+- chickens, geese, dogs and cats
+- an instrument (**Note: choose an instrument that your musician has skill in. You can view the instruments in the symbol creation menu. Adjust his 2nd skill to the type of instrument: string, wind, percussion etc**)
+- a couple fancy goblets
+- a few nuggets of silver
+- silk cloth
+
+### Usage Tips
+
 ## Peacock Easy Start
 
-![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](peafowl.png)
+![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](img/peafowl.png)
 
 Embark with a "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl.
