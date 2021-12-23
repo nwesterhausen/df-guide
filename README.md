@@ -20,3 +20,11 @@ This repository exists to document my fort process and make it easily accessible
 Some useful resources that I used when creating this repository.
 
 - [df-designer](https://github.com/threehams/df-designer) browser-based dwarf fortress designation/building utility
+
+Some other guides for reference:
+
+- From Wagon to Fortress in Thirteen Steps 
+([Reddit](https://www.reddit.com/r/dwarffortress/comments/fkm1s4/from_wagon_to_fortress_in_thirteen_steps/)]
+- Cavern Quickstart Step-by-Step 
+([Reddit](https://www.reddit.com/r/dwarffortress/comments/fls9zt/cavern_quickstart_stepbystep/))
+
