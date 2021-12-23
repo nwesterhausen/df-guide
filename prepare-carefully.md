@@ -3,9 +3,9 @@ A few different flavors of embarking:
 
 - [Military dwarf start](#military-squad)
 - [Custom "Useless Nobles + Escort" scenario](#nobles-with-escort)
-- ["Peacock Easy Start"](#peacock-easy-start)
+- ["Peafowl Easy Start"](#peafowl-easy-start)
 
-A custom [embark_profiles.txt](embark_profiles.txt) is available with these profiles.
+A custom [embark_profiles.txt](peafowl_profiles.txt) is available with these profiles.
 
 ## Military Squad
 Embark with a squad of military dwarves and their commander. 
@@ -58,7 +58,7 @@ Embark with a handful of nobles and a single escort.
 
 ### Usage Tips
 
-## Peacock Easy Start
+## Peafowl Easy Start
 
 ![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](img/peafowl.png)
 
