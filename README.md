@@ -15,3 +15,8 @@ This repository exists to document my fort process and make it easily accessible
 4. Notes
 	1. [Hen House Design](poultry-housing.md)
 	1. [Hospital Design](hospital-design.md)
+
+## Resources
+Some useful resources that I used when creating this repository.
+
+- [df-designer](https://github.com/threehams/df-designer) browser-based dwarf fortress designation/building utility
