@@ -21,40 +21,40 @@ A [farm plot](https://dwarffortresswiki.org/index.php/DF2014:Farming) is built f
 Only small plants can be grown in farm plots (no trees), and what seeds you get from above-ground plants need to be grown in similar light conditions. The subterranean plants are usually all available as seeds at embark. They can be grown at underground dark farms without an issue. You can grow aboveground crops underground as long as there is an acceptable light level for the plants to grow.
 
 ### Subterranean Plants
-Pig Tail
-: grows in summer and autumn from "pig tail seeds"
-: can be brewed into "dwarven ale" at a still
-: can be processed into "pig tail thread" at a farmer's workshop
-: can be milled into "pig tail slurry" at a mill or quern for papermaking
-: cannot be cooked into meals at a kitchen 
+#### Pig Tail
+- grows in summer and autumn from "pig tail seeds"
+- can be brewed into "dwarven ale" at a still
+- can be processed into "pig tail thread" at a farmer's workshop
+- can be milled into "pig tail slurry" at a mill or quern for papermaking
+- cannot be cooked into meals at a kitchen 
 
-Plump Helmet
-: grows in every season from "plump helmet spawn"
-: can be brewed into "dwarven wine" at a still
-: can be cooked into meals at a kitchen (will not produce spawn)
+#### Plump Helmet
+- grows in every season from "plump helmet spawn"
+- can be brewed into "dwarven wine" at a still
+- can be cooked into meals at a kitchen (will not produce spawn)
 
-Cave Wheat
-: grows in summer and autumn from "cave wheat seeds"
-: can be brewed into "dwarven beer" at a still
-: can be milled into "cave wheat flour" at a mill or quern for cooking
-: cannot be cooked into meals at a kitchen
+#### Cave Wheat
+- grows in summer and autumn from "cave wheat seeds"
+- can be brewed into "dwarven beer" at a still
+- can be milled into "cave wheat flour" at a mill or quern for cooking
+- cannot be cooked into meals at a kitchen
 
-Sweet Pod
-: grows in spring and summer from "sweet pod seeds"
-: can be brewed into "dwarven rum" at a still
-: can be processed into a barrel of "dwarven syrup" from a farmer's workshop for cooking
-: can be milled into "dwarven sugar" at a mill or quern for cooking
-: cannot be cooked into meals at a kitchen
+#### Sweet Pod
+- grows in spring and summer from "sweet pod seeds"
+- can be brewed into "dwarven rum" at a still
+- can be processed into a barrel of "dwarven syrup" from a farmer's workshop for cooking
+- can be milled into "dwarven sugar" at a mill or quern for cooking
+- cannot be cooked into meals at a kitchen
 
-Quarry Bush
-: grows in spring, summer and autumn from "rock nuts"
-: can be processed into a bag of "quarry bush leaves" from a farmer's workshop
-: rock nuts can be used to create oil by milling and then pressing, and the press cakes can be cooked
-: quarry bush leaves can be cooked into meals at a kitchen
-: cannot be brewed into drinks at a still
+#### Quarry Bush
+- grows in spring, summer and autumn from "rock nuts"
+- can be processed into a bag of "quarry bush leaves" from a farmer's workshop
+- rock nuts can be used to create oil by milling and then pressing, and the press cakes can be cooked
+- quarry bush leaves can be cooked into meals at a kitchen
+- cannot be brewed into drinks at a still
 
-Dimple Cup
-: grows in every season from "dimple cup spawn"
-: can be milled into "dimple dye" at a mill or quern
-: cannot be brewed into drinks at a still
-: cannot be cooked into meals at a kitchen
+#### Dimple Cup
+- grows in every season from "dimple cup spawn"
+- can be milled into "dimple dye" at a mill or quern
+- cannot be brewed into drinks at a still
+- cannot be cooked into meals at a kitchen
