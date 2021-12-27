@@ -21,6 +21,8 @@ A [farm plot](https://dwarffortresswiki.org/index.php/DF2014:Farming) is built f
 Only small plants can be grown in farm plots (no trees), and what seeds you get from above-ground plants need to be grown in similar light conditions. The subterranean plants are usually all available as seeds at embark. They can be grown at underground dark farms without an issue. You can grow aboveground crops underground as long as there is an acceptable light level for the plants to grow.
 
 ### Subterranean Plants
+The safest plants to grow are subterranean because you are not exposed to surface elements like rain or snow and you can secure the farms so that invaders or unwanted guests aren't going to be an issue for your food production.
+
 #### Pig Tail
 - grows in summer and autumn from "pig tail seeds"
 - can be brewed into "dwarven ale" at a still
@@ -58,3 +60,8 @@ Only small plants can be grown in farm plots (no trees), and what seeds you get 
 - can be milled into "dimple dye" at a mill or quern
 - cannot be brewed into drinks at a still
 - cannot be cooked into meals at a kitchen
+
+### Above Ground Plants
+You can grow above-ground plants underground if you provide enough light. You can brighten an underground area to be able to farm above ground plants by channeling down to whatever level you want to have the farm on, then you can put floors above it and it will not remove the light level. 
+
+Seeds for surface plants can be traded for with humans or gained from eating/brewing/milling plants gathered (either via [designating an area](#designation-gathering) or [zoning an area](#zoned-gathering)).
