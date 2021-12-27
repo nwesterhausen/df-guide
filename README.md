@@ -2,6 +2,8 @@
 
 This repository exists to document my fort process and make it easily accessible for myself, no matter where I happen to play.
 
+This guide is about [Dwarf Fortress](https://bay12games.com/dwarves/).
+
 ## Sections
 
 1. [World Generation](world-generation.md) - Personal speculation and reference for world generation parameters.
@@ -29,6 +31,6 @@ Some other guides for reference:
 - Cavern Quickstart Step-by-Step 
 ([Reddit](https://www.reddit.com/r/dwarffortress/comments/fls9zt/cavern_quickstart_stepbystep/))
 - DF Wiki Quickstart Guide 
-([DFwiki]([DF2014:Quickstart guide - Dwarf Fortress Wiki](https://dwarffortresswiki.org/index.php/DF2014:Quickstart_guide)))
+([DFwiki](https://dwarffortresswiki.org/index.php/DF2014:Quickstart_guide))
 - PeridexisErrant’s DF Walkthrough 
-([readthedoc.io]([PeridexisErrant’s DF Walkthrough — PeridexisErrant's DF Walkthrough (df-walkthrough.readthedocs.io)](https://df-walkthrough.readthedocs.io/en/latest/)))
+([df-walkthrough.readthedoc.io](https://df-walkthrough.readthedocs.io/en/latest/))
