@@ -13,8 +13,9 @@ This repository exists to document my fort process and make it easily accessible
 	2. [Industry Guides](industry.md) - Short list explanation of industry requirements with thoughts and plans on how to run each industry.
 	3. [Military Guide](military.md) - My personal military setup guide.
 4. Notes
-	1. [Hen House Design](poultry-housing.md)
-	1. [Hospital Design](hospital-design.md)
+	1. [Generating Power](design-water-reactor.md)
+	2. [Hen House Design](poultry-housing.md)
+	3. [Hospital Design](design-hospital.md)
 
 ## Resources
 Some useful resources that I used when creating this repository.
