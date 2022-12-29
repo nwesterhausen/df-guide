@@ -31,5 +31,5 @@ jobs:
           container_name: $web
           extra_args: '--destination-path fortress-guide.nwest.wiki/ --overwrite'
           connection_string: '${{ secrets.AZURE_CONNECTION_STRING }}'
-          source_dir: /dist
+          source_dir: /home/runner/work/df-guide/df-guide/dist
           sync: true
