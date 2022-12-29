@@ -12,7 +12,7 @@ Nothing is required to fish besides a dwarf. In order to get edible food from th
 
 The fishing industry produces shells and bones from the fish when they are prepared at the fishery workshop.
 
-- [crafts](./crafts)
+- [crafts](./finished-goods)
 - [food](./food)
 
 ## Producing Fish

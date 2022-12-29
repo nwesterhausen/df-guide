@@ -16,7 +16,7 @@ The only requirement to get wood is a dwarf and an axe. Axes can be selected dur
 Wood is used in a few industries:
 
 - [furniture](./furniture)
-- [crafts](./crafts)
+- [crafts](./finished-goods)
 - [soap](./soap)
 - [fuel](./fuel)
 - construction of walls/floors, blocks can be made of wood which give you 4 blocks per log to build constructions with.
