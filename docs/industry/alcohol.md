@@ -4,7 +4,7 @@ Alcohol is vital for dwarves to work effectively. It also is used in taverns and
 
 ## Summary
 
-### Required Other Industries:
+### Required Other Industries
 
 In general, the alcohol industry requires something to brew and a container to put it in:
 

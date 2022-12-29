@@ -1,10 +1,10 @@
-# Alcohol Industry
+# Armor Industry
 
-Alcohol is vital for dwarves to work effectively. It also is used in taverns and can be used in the food industry.
+Armor provides defense against strikes, blows, bites and slashes. The effectiveness varies based on the material its made out of.
 
 ## Summary
 
-### Required Other Industries:
+### Required Other Industries
 
 Needs something to make armor out of:
 

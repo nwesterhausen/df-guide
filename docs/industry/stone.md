@@ -4,7 +4,7 @@ Stone can be obtained from mining or from trading. Raw ore is considered a stone
 
 ## Summary
 
-### Required Other Industries:
+### Required Other Industries
 
 In general, the stone industry doesn't require anything but a dwarf and a pick.
 

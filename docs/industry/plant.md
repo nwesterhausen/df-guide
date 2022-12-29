@@ -3,9 +3,11 @@ outline: deep
 ---
 # Plant Industry
 
+Plants are a large staple of the food and drink industries.
+
 ## Summary
 
-### Required Other Industries:
+### Required Other Industries
 
 There are two sources for plant-based food, either gathering from naturally growing plants or trees (by a farmer with the [herbalist](https://dwarffortresswiki.org/index.php/DF2014:Herbalist) skill) or from plants grown in crop plots (by a farm with the [grower](https://dwarffortresswiki.org/index.php/DF2014:Grower) skill).
 
