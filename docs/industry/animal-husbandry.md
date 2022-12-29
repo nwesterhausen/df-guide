@@ -13,12 +13,12 @@ food for each training session.
 
 Animal husbandry industry produces animals which can be used in a lot of other industry:
 
-- [trade](/trade): caged animals can be traded for a lot of dwarfbucks depending on their rarity
-- [butchery](/butchery): butchered animals produce meat, leather, and bone
-- [food](/food): Eggs (egg-laying animals produce eggs which can be eaten themselves or used in cooking)
-- [food](/food): Milk (some animals can be milked, and milk can be used for cheese or in cooking)
-- [textile](/textile): Wool (some animals can be sheared for wool which can be spun into yarn)
-- [hunting](/hunting)/[military](/military): War/Hunting (some animals can be trained for war or hunting and protect/aid your dwarves)
+- [trade](./trade): caged animals can be traded for a lot of dwarfbucks depending on their rarity
+- [butchery](./butchery): butchered animals produce meat, leather, and bone
+- [food](./food): Eggs (egg-laying animals produce eggs which can be eaten themselves or used in cooking)
+- [food](./food): Milk (some animals can be milked, and milk can be used for cheese or in cooking)
+- [textile](./textile): Wool (some animals can be sheared for wool which can be spun into yarn)
+- [hunting](./hunting)/[military](./military): War/Hunting (some animals can be trained for war or hunting and protect/aid your dwarves)
 
 ## Producing Animals
 
