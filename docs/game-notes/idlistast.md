@@ -53,13 +53,12 @@ fighters is a good idea.
 - Bringing multiple other egg layers just for eggs
 - Sand since having glass is good
 
-# Details
+## Details
 
 Fort: Idlitast "Rocktorches"
 Group: The Sabres of Brilliance
 Symbol: The Tomb of Flickering is an image of a mountain. The mountain is burning.
 
-# End
+## End
 
 Done in by syndrome cloud turning the caravan guards to [husks](https://dwarffortresswiki.org/index.php/DF2014:Undead#Thralls.2C_Husks.2C_and_Zombies)
-

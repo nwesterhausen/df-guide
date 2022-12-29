@@ -1,4 +1,5 @@
 # Prepare for the journey carefully
+
 A few different flavors of embarking:
 
 - [Military dwarf start](#military-squad)
@@ -8,12 +9,13 @@ A few different flavors of embarking:
 A custom [embark_profiles.txt](peafowl_profiles.txt) is available with these profiles.
 
 ## Military Squad
-Embark with a squad of military dwarves and their commander. 
+
+Embark with a squad of military dwarves and their commander.
 
 ### Summary
 
 - 2 hammerdwarves
-- 2 speardwarves 
+- 2 speardwarves
 - 2 axedwarves
 - 1 commander
 - steak, spinach, fish and mushrooms
@@ -31,14 +33,15 @@ Have one of your starting 7 forge your tools after building a metalsmith forge w
 
 The included wood can save time chopping down trees, or allow you to embark somewhere without trees. Make a carpenter shop and produce 7 beds and an armor stand. Set up bedrooms for each dwarf and create a barracks where they all are able to train. You should remember that you get 3 wood from deconstructing the wagon and consider using it for a table and two chairs: one chair becomes an office for your bookkeeper, the chair and table become a bare-bones dining hall.
 
-This start probably benefits the most from migrant waves, as you will get a really solid military foundation. 
+This start probably benefits the most from migrant waves, as you will get a really solid military foundation.
 
 You should consider that no one will have armor. And they will only have shields if you make them for them. It's best to get them armored as soon as possible, because it will make a huge improvement for their survival.
 
 ## Nobles with Escort
+
 Embark with a handful of nobles and a single escort.
 
-### Summary
+### Nobles Summary
 
 - 1 musician
 - 1 poet
@@ -56,7 +59,7 @@ Embark with a handful of nobles and a single escort.
 - a few nuggets of silver
 - silk cloth
 
-### Usage Tips
+### Noble Usage Tips
 
 ## Peafowl Easy Start
 
@@ -64,7 +67,7 @@ Embark with a handful of nobles and a single escort.
 
 Embark with a more "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl (and a couple sow for milking; I guess this is more of a food/drink focus embark). This embark will enable you to get your food and drink industry off to a strong start.
 
-### Summary
+### Peafowl Summary
 
 - blue peafowl
 - 2 picks, 1 axe
@@ -83,7 +86,7 @@ Embark with a more "generic" start, multiple labor dwarves and regular supplies 
 - 1 mason/broker
 - pigs (for milking/cheesemaking)
 
-### Usage Tips
+### Peafowl Usage Tips
 
 All the animals brought along do not need to graze (except for your pack animals). It would be beneficial to butcher your pack animals and use the tallow to make soap to have from the beginning. You can easily fully stock a hospital and make a well with this start.
 
@@ -91,6 +94,6 @@ To improve your farmers, you should change the general orders to only permit far
 
 I tried to include a couple fruits from the garden vegetable category, to provide some wine variety. They may not be available if you chose this embark, so consider adding some which are available to you.
 
-Brought some milk (it's only 1 dwarfbuck per unit!) to make some cheese right after arriving as well. That's easy food. With the sows, you can throw them in a room with a farmer's workshop and queue up *x* milking jobs per month, where *x* is the number of sows.
+Brought some milk (it's only 1 dwarfbuck per unit!) to make some cheese right after arriving as well. That's easy food. With the sows, you can throw them in a room with a farmer's workshop and queue up _x_ milking jobs per month, where _x_ is the number of sows.
 
 Make sure to make some nest boxes and create some [peafowl coops](poultry-housing.md).

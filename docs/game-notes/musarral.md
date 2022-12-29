@@ -1,7 +1,7 @@
 # musarral "Knownsilvers"
 
-Inspired by the embark profile "Escort and 6 nobles with no skills," I'm going to do that but with 
-1 guard, 1 worker and 5 nobles with no [useful] skills. I'm also going to forbid my nobles from 
+Inspired by the embark profile "Escort and 6 nobles with no skills," I'm going to do that but with
+1 guard, 1 worker and 5 nobles with no [useful] skills. I'm also going to forbid my nobles from
 doing "peasant labors" (cleaning, construction removal, furniture hauling, push/haul vehicles, refuse
 hauling, stone hauling, water hauling and wood hauling).
 
@@ -20,7 +20,7 @@ Escorts:
 
 ## saved profile
 
-```
+```ini
 [PROFILE]
 	[TITLE:Guard, Butler and 5 Nobles with no skills]
 	[SKILL:1:MINING:1]
@@ -97,15 +97,15 @@ peasant professions so I have customized them respectively. I disabled the labor
 were beneath the nobles.
 
 We embarked to The Torrid Forest on the Shattered Continent. A half day's travel south is a
-friendly elven site. A half day north is another one. An elven retreat is 2 days travel west 
-of us. 2 days travel south of us is a lot of different sites, populated by dwarves, humans 
+friendly elven site. A half day north is another one. An elven retreat is 2 days travel west
+of us. 2 days travel south of us is a lot of different sites, populated by dwarves, humans
 and gobins -- they all have a green border so they could all be part of the human/dwarven civ.
 There also are some sites with no population but with artifacts. And there were very few sites
 I saw that had more than 50 population. I think this time we're ripe to make a museum and grand
 library.
 
 > 7th Slate, 1050: The forest retreat of Leapedtongue (1/2 days travel to the southwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 Strange considering it's been a month and all we've done is put a roof over the wagon and butchery
 area and started digging a storage pit.
@@ -113,16 +113,16 @@ area and started digging a storage pit.
 ![wagon and workshops](img/wagon-and-workshops.png)
 
 > 9th Felsite, 1050: The forest retreat of Drunkencrushed (1/2 days travel to the south) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 All we've accomplished since Slate is building a carpenter and craftdwarf workshop, and finished
 digging out a small room in the stone.
 
 > 5th Hematite, 1050: The forest retreat of Spinsings (a short walk to the southwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 > 10th Hematite, 1050: The forest retreat of Gulfbries (a short walk to the southwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 All of these economically-linked sites are Elven.
 
@@ -131,16 +131,16 @@ All of these economically-linked sites are Elven.
 Finally some more workers! 2 blacksmiths, a doctor and a stonecrafter.
 
 > 5th Malachite, 1050: The forest retreat of Poetfells (a short walk to the southwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 > 13th Malachite, 1050: The forest retreat of Sandalmeadow (a short walk to the southwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 > 19th Galena, 1050: The forest retreat of Glimmmeredhoods (1/2 days travel to the northwest) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 > 7th Limestone, 1050: The forest retreat of Glosspaths (a short walk to the west) looks to
-> your thriving economy for its future prosperity. 
+> your thriving economy for its future prosperity.
 
 A caravan arrived on the 15th of Limestone, 1050. No outpost liason arrived with it. We traded them
 some wooden cups, stone mugs and a couple earthenware statues for a gold bar, a few birds, and some
@@ -152,4 +152,3 @@ More migrants. Basically they double our population! Noteworthy members are a hi
 a high master gem cutter.
 
 In spring 1051, elven traders arrived and so did a migrant wave of 11 dwarf citizens.
-
