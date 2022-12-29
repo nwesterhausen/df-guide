@@ -10,7 +10,7 @@ These industries can operate (mostly) without reliance on another industry (e.g.
 - [Stone Industry](./stone): obtaining stone, obtaining ore
 - [Plant Industry](./plant): herbalism (plant gathering) and plot farming
 - [Fishing Industry](./fishing): fishing, fish cleaning, fish dissection
-- [Animal Husbandry](./animal): raising domestic animals, trading exotic pets, produce eggs
+- [Animal Husbandry](./animal-husbandry): raising domestic animals, trading exotic pets, produce eggs
 
 ## Secondary Industry
 
@@ -22,7 +22,7 @@ These industries can operate (mostly) without reliance on another industry (e.g.
 - [Ceramic Industry](./ceramic): gathering clay, turning clay into pottery, glazing pottery
 - [Cheese Industry](./cheese): milk animals, turn the milk into cheese
 - [Clothing Industry](./clothing): producing clothing, rope and bags; decorating crafts
-- [Extract Industry](./extracts): process vermin and plants into extracts, turn honeycomb into honey and wax, turn plants into flour, sugar, syrup or dye
+- [Extract Industry](./extract): process vermin and plants into extracts, turn honeycomb into honey and wax, turn plants into flour, sugar, syrup or dye
 - [Finished Goods Industry](./finished-goods): producing crafts or totems at a craftsdwarf workshop or metalsmith forge (wood, bone, stone and metal crafting)
 - [Food Industry](./food): cooking meat, fish, eggs, cheese, flour, sugar, syrup, alcohol, and plants into meals
 - [Fuel Industry](./fuel): creating coal coke and charcoal at a smelter or wood furnace respectively
@@ -30,7 +30,7 @@ These industries can operate (mostly) without reliance on another industry (e.g.
 - [Glass Industry](./glass): gathering sand, creating raw glass, creating glass furniture/crafts
 - [Gem Industry](./gem): cutting gems, encrusting things with gems, gem crafting
 - [Hunting Industry](./hunting): hunting wild animals on the map
-- [Leatherworking Industry](./leather): tanning raw hide into leather, creating leather clothing, bags, and goods
+- [Leatherworking Industry](./leatherworking): tanning raw hide into leather, creating leather clothing, bags, and goods
 - [Metal Industry](./metal): smelting metal bars using ore and fuel, or unwanted metal items and fuel
 - [Musical Instrument Industry](./musical-instrument): creating musical instruments
 - [Paper Industry](./paper): producing parchment from rawhide or paper sheets from cloth plants, 

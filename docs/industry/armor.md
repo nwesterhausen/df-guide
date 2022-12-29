@@ -11,7 +11,7 @@ Needs something to make armor out of:
 - [wood](./wood): make wooden bucklers or shields (only elves can make wooden armor pieces)
 - [bone](./butchery): make bone leggings, greaves, gauntlets or helms
 - [shells](./fishing): make shell leggings, greaves, gauntlets or helms
-- [leather](./leather): make leather armor and body coverings, shield
+- [leather](./leatherworking): make leather armor and body coverings, shield
 - [metal](./metal) (and [fuel](./fuel)): make metal armor and body coverings, bucklers and shields
 
 ### Production

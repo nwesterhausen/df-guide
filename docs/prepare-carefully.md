@@ -6,7 +6,7 @@ A few different flavors of embarking:
 - [Custom "Useless Nobles + Escort" scenario](#nobles-with-escort)
 - ["Peafowl Easy Start"](#peafowl-easy-start)
 
-A custom [embark_profiles.txt](peafowl_profiles.txt) is available with these profiles.
+A custom [embark_profiles.txt](/public/peafowl_profiles.txt) is available with these profiles.
 
 ## Military Squad
 
@@ -63,7 +63,7 @@ Embark with a handful of nobles and a single escort.
 
 ## Peafowl Easy Start
 
-![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](img/peafowl.png)
+![This is a drawing by Pythania of a blue peacock and blue peahen and a nestbox. The blue peahen is sitting on the nestbox.](/img/peafowl.png)
 
 Embark with a more "generic" start, multiple labor dwarves and regular supplies but also with blue peafowl (and a couple sow for milking; I guess this is more of a food/drink focus embark). This embark will enable you to get your food and drink industry off to a strong start.
 
@@ -96,4 +96,4 @@ I tried to include a couple fruits from the garden vegetable category, to provid
 
 Brought some milk (it's only 1 dwarfbuck per unit!) to make some cheese right after arriving as well. That's easy food. With the sows, you can throw them in a room with a farmer's workshop and queue up _x_ milking jobs per month, where _x_ is the number of sows.
 
-Make sure to make some nest boxes and create some [peafowl coops](poultry-housing.md).
+Make sure to make some nest boxes and create some [peafowl coops](./building-designs/poultry-housing).
